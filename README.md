@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录关联
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 033 篇 - 百家乐Ai预测分析工具：待定记录应保留怎样的后续轨迹](https://github.com/TGmszrcsz/baccarat-ai-033) ｜ [下一篇：第 035 篇 - 百家乐Ai预测分析工具：结果修正后怎样保留旧结论](https://github.com/TGmszrcsz/baccarat-ai-035)
+
+<!-- article-chain:end -->
+
 日报生成时还有未完成记录，随后才补齐结果。本篇围绕“迟到结果如何影响报表结算”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
